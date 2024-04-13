@@ -1,0 +1,9 @@
+Package: harfbuzz
+Version: 6.0.0
+Port-Version: 1
+Depends: freetype, vcpkg-tool-meson
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 0c4246bf5851da496d65b05cf7560eb7b746a97bacf758a96f7e04722219f262
+Description: HarfBuzz OpenType text shaping engine
+Status: install ok installed

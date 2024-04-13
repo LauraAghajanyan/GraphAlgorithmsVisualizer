@@ -1,0 +1,7 @@
+Package: vcpkg-tool-meson
+Version: 0.63
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 50e01e436f01c94dbbd8ddc138bf3609987de1423468b0e6777608b5902fdaa1
+Description: Meson build system
+Status: install ok half-installed

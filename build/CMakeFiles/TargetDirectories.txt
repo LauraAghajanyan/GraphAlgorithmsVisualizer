@@ -1,0 +1,3 @@
+C:/Users/Asus/OneDrive/Desktop/Diploma/build/CMakeFiles/graphs.dir
+C:/Users/Asus/OneDrive/Desktop/Diploma/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/OneDrive/Desktop/Diploma/build/CMakeFiles/ZERO_CHECK.dir
