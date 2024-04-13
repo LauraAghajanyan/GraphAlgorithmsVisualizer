@@ -1,9 +1,0 @@
-Package: qt5-base
-Version: 5.15.8
-Port-Version: 4
-Depends: double-conversion, egl-registry, freetype, harfbuzz, icu, libjpeg-turbo, libpng, openssl, pcre2, qt5-base, sqlite3, vcpkg-cmake-get-vars, vcpkg-pkgconfig-get-modules, zlib, zstd
-Architecture: x64-windows
-Multi-Arch: same
-Abi: b6d5129dc66e708225bdc595bc46c320db5d7d4b9be787028dad02462e062fdc
-Description: Qt5 Application Framework Base Module. Includes Core, GUI, Widgets, Networking, SQL, Concurrent and other essential qt components.
-Status: install ok half-installed

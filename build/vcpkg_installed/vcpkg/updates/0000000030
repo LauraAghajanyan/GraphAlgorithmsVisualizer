@@ -1,9 +1,0 @@
-Package: icu
-Version: 72.1
-Port-Version: 3
-Depends: icu
-Architecture: x64-windows
-Multi-Arch: same
-Abi: 9e8c6732d6827a8c5251b8e9c2d850b62cdee405285a2ee5204c53f4fc07149d
-Description: Mature and widely used Unicode and localization library.
-Status: install ok half-installed
